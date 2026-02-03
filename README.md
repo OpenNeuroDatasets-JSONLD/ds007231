@@ -5,7 +5,9 @@ Possidente, T., Tripathi, V., McGuire, J. T. & Somers, D. C. Interactions betwee
 Details of data are given in the Methods section of the above citation. 
 
 Event Code/Trial Type Key:
+
 1 = Fixation
+
 2 = Auditory Sensorimotor Control
 3 = Tactile Sensorimotor Control
 4 = Visual Sensorimotor Control
