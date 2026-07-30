@@ -1,6 +1,6 @@
-participant_id	participant_id_orig notes
-sub-01	MM  (not in gradients analysis)
-sub-02	PP  (not in gradients analysis 
+participant_id	participant_id_orig	notes
+sub-01	MM	(not in gradients analysis)
+sub-02	PP	(not in gradients analysis 
 sub-03	MK
 sub-04	AB
 sub-05	AD
@@ -20,4 +20,4 @@ sub-18	PT
 sub-19	PL
 sub-20	NS
 sub-21	AI
-sub-22  SL  (not in Possidente, Tripathi, 2026)
+sub-22  SL	(not in Possidente, Tripathi, 2026)
