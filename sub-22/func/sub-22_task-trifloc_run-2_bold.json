@@ -147,5 +147,6 @@
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"BidsGuess": ["func","_acq-epfid2m3_dir-AP_run-14_bold"],
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20240202"
+	"ConversionSoftwareVersion": "v1.0.20240202",
+	"TaskName": "trifloc"
 }
