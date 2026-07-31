@@ -21,3 +21,8 @@ Event Code/Trial Type Key:
 6 = Tactile Working Memory 2-Back
 
 7 = Visual Working Memory 2-Back
+
+____________________________________________________________
+
+sub-22 not in Possidente, Tripathi, et al., 2026.
+sub-01, sub-02 not in Possidente et al., ___
