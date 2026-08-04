@@ -1,6 +1,6 @@
 To acknowledge use of this dataset, please cite:
 
-- Possidente, T.\*, Tripathi, V.\*, McGuire, J. T. & Somers, D. C. (in press) Interactions between sensory-biased and supramodal working memory networks in the human cerebral cortex. <i>Communications Biology</i>.
+- Possidente, T., Tripathi, V., McGuire, J.T. et al. Interactions between sensory-biased and supramodal working memory networks in the human cerebral cortex. <i>Commun Biol</i> 9, 389 (2026). https://doi.org/10.1038/s42003-026-09688-7
 
 Details of data are given in the Methods section of the above citation. 
 
@@ -21,3 +21,9 @@ Event Code/Trial Type Key:
 6 = Tactile Working Memory 2-Back
 
 7 = Visual Working Memory 2-Back
+
+____________________________________________________________
+
+sub-22 not in Possidente, Tripathi, et al., 2026. (Interactions between sensory-biased and supramodal working memory networks in the human cerebral cortex)
+
+sub-01, sub-02 not in manuscript Possidente et al., 2026 (Gradients of function between sensory drive and working memory in human frontal cortex)
